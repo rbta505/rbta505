@@ -6,7 +6,9 @@ tenho praticado projetos focados no front-end utilizando HTML, CSS e JavaScript 
 ## projetos em destaque
 
  - to do list (em desenvolvimento)
-   ps: novos projetos serão adicionados conforme minha evolução.
+
+
+    ps: novos projetos serão adicionados conforme minha evolução.
 
 ## objetivo
 
