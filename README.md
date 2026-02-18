@@ -14,6 +14,13 @@ tenho praticado projetos focados no front-end utilizando HTML, CSS e JavaScript 
 
 em busca da conquista da primeira oportunidade na área de tecnologia e continuar evoluindo como desenvolvedora.
 
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
 <!--
 **rbta505/rbta505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
